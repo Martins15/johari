@@ -1,0 +1,41 @@
+body{
+	font-size:12px;
+	color:#333;
+}
+h1{
+	padding-bottom:25px;
+}
+.container{
+	width:980px;
+	margin:40px auto;
+}
+.big-table .btn{
+	width:110px;
+	padding:20px 0;
+	margin:0 2px 10px;
+}
+.big-table{
+	padding-bottom:15px;
+}
+.info{
+	padding:20px 0;
+}
+.form .btn{
+	vertical-align:top;
+}
+.table-results td, .table-results th{
+	padding:10px;
+	border:1px solid #ccc;
+}
+.table-results td{
+	vertical-align:top;
+	width:45%;
+}
+.table-results th{
+	background:#eee;
+}
+
+
+
+
+
